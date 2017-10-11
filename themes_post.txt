@@ -1,0 +1,88 @@
+[wr_box title="{{attachments.0.img_title}}" style="default" box_color="#3d72a4" background="#000000" title_color="#FFFFFF" radius="0" class=""]<img title="{{attachments.0.img_title}}" src="{{ attachments.0.img_src_full}}" alt="{{ attachments.0.img_alt}}" width="100%" />
+{{attachments.0.post_excerpt}}
+<table>
+<tr>
+	<td>Image Title</td>
+	<td>:</td>
+	<td>{{attachments.0.img_title}}</td>
+</tr>
+<tr>
+	<td>Image Alt</td>
+	<td>:</td>
+	<td>{{attachments.0.img_alt}}</td>
+</tr>
+<tr>
+	<td>Resolution</td>
+	<td>:</td>
+	<td>{{attachments.0.img_width}}x{{attachments.0.img_height}}</td>
+</tr>
+<tr>
+	<td>Filesize</td>
+	<td>:</td>
+	<td>{{attachments.0.img_filesize}}</td>
+</tr>
+</table>
+<a href="{{attachments.0.img_url}}" download>[wr_button style="flat" background="#3d72a4" center="yes" icon="icon: download"]Save Image[/wr_button]</a>
+[/wr_box]
+
+
+[wr_divider divider_color="#3d72a4" link_color="#3d72a4"]
+
+[wr_box title="{{attachments.1.img_title}}" style="default" box_color="#3d72a4" background="#000000" title_color="#FFFFFF" radius="0" class=""]<img title="{{attachments.1.img_title}}" src="{{ attachments.1.img_src_full}}" alt="{{ attachments.1.img_alt}}" width="100%" />
+{{attachments.1.post_excerpt}}
+<table>
+<tr>
+	<td>Image Title</td>
+	<td>:</td>
+	<td>{{attachments.1.img_title}}</td>
+</tr>
+<tr>
+	<td>Image Alt</td>
+	<td>:</td>
+	<td>{{attachments.1.img_alt}}</td>
+</tr>
+<tr>
+	<td>Resolution</td>
+	<td>:</td>
+	<td>{{attachments.1.img_width}}x{{attachments.1.img_height}}</td>
+</tr>
+<tr>
+	<td>Filesize</td>
+	<td>:</td>
+	<td>{{attachments.1.img_filesize}}</td>
+</tr>
+</table>
+<a href="{{attachments.1.img_url}}" download>[wr_button style="flat" background="#3d72a4" center="yes" icon="icon: download"]Save Image[/wr_button]</a>
+[/wr_box]
+
+[wr_divider divider_color="#3d72a4" link_color="#3d72a4"]
+
+
+[wr_box title="{{attachments.2.img_title}}" style="default" box_color="#3d72a4" background="#000000" title_color="#FFFFFF" radius="0" class=""]<img title="{{attachments.2.img_title}}" src="{{ attachments.2.img_src_full}}" alt="{{ attachments.2.img_alt}}" width="100%" />
+{{attachments.2.post_excerpt}}
+<table>
+<tr>
+	<td>Image Title</td>
+	<td>:</td>
+	<td>{{attachments.2.img_title}}</td>
+</tr>
+<tr>
+	<td>Image Alt</td>
+	<td>:</td>
+	<td>{{attachments.2.img_alt}}</td>
+</tr>
+<tr>
+	<td>Resolution</td>
+	<td>:</td>
+	<td>{{attachments.2.img_width}}x{{attachments.2.img_height}}</td>
+</tr>2
+<tr>
+	<td>Filesize</td>
+	<td>:</td>
+	<td>{{attachments.2.img_filesize}}</td>
+</tr>
+</table>
+<a href="{{attachments.2.img_url}}" download>[wr_button style="flat" background="#3d72a4" center="yes" icon="icon: download"]Save Image[/wr_button]</a>
+[/wr_box]
+
+[wr_divider divider_color="#3d72a4" link_color="#3d72a4"]
